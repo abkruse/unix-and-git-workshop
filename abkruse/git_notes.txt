@@ -1,0 +1,13 @@
+modify -> add -> commit!
+
+git init -> make a repository
+git add -> adds files to a repository
+git commit -> commits changes
+-a  - all changes
+-m "" - adds descriptive message to commit
+git branch nameofnewbranch -> creates new branch
+git checkout nameofanotherbranch -> move to another branch
+git log -> look at commits on branch you are on
+git branch -> shows you what branch you are on
+git branch -D -> deletes a branch.
+git merge sourcebranch -> merge one branch to another (must be on branch you want to merge to!)

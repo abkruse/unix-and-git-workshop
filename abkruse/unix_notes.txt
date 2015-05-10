@@ -1,0 +1,15 @@
+Have learned so much. 
+
+pwd - Print working directory (where am i?)
+cd - change directory, i.e. cd notes
+ls - lists items in working directory
+less - shows all contents (less is more)
+man - shows the manual for commands
+history - shows all tab strokes ever entered in terminal (whoa!)
+ll - long list (ls -l) lists sizes
+>> redirection and adds whatever is in a file to the new file
+cat - I dunno
+nano - write in a file!
+subl - open Sublime text
+mv - MOVE:  mv file path/dir newfile/dirname
+touch - create file
